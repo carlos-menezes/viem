@@ -1,5 +1,11 @@
 # viem
 
+## 2.21.5
+
+### Patch Changes
+
+- [`175e90b`](https://github.com/wevm/viem/commit/175e90b33487017108af7563f030a54cd427c7c3) Thanks [@jxom](https://github.com/jxom)! - Restructured exports for wordlists.
+
 ## 2.21.4
 
 ### Patch Changes
